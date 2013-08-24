@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SocialCop</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="hashtags">
+        <item>#Garbage</item>
+        <item>#Traffic Voilations</item>
+        <item>#Electricity</item>
+        <item>#General</item>
+    </string-array>
+
+    <string name="title_activity_uploadpage">Uploadpage</string>
+
+</resources>
